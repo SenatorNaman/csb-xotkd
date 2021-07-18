@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://senatornaman.github.io/csb-xotkd/static/css/main.3d8b7548.chunk.css",
+    "main.js": "https://senatornaman.github.io/csb-xotkd/static/js/main.7bbd92b4.chunk.js",
+    "main.js.map": "https://senatornaman.github.io/csb-xotkd/static/js/main.7bbd92b4.chunk.js.map",
+    "runtime-main.js": "https://senatornaman.github.io/csb-xotkd/static/js/runtime-main.8add0df2.js",
+    "runtime-main.js.map": "https://senatornaman.github.io/csb-xotkd/static/js/runtime-main.8add0df2.js.map",
+    "static/js/2.121b1ce0.chunk.js": "https://senatornaman.github.io/csb-xotkd/static/js/2.121b1ce0.chunk.js",
+    "static/js/2.121b1ce0.chunk.js.map": "https://senatornaman.github.io/csb-xotkd/static/js/2.121b1ce0.chunk.js.map",
+    "index.html": "https://senatornaman.github.io/csb-xotkd/index.html",
+    "static/css/main.3d8b7548.chunk.css.map": "https://senatornaman.github.io/csb-xotkd/static/css/main.3d8b7548.chunk.css.map",
+    "static/js/2.121b1ce0.chunk.js.LICENSE.txt": "https://senatornaman.github.io/csb-xotkd/static/js/2.121b1ce0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8add0df2.js",
+    "static/js/2.121b1ce0.chunk.js",
+    "static/css/main.3d8b7548.chunk.css",
+    "static/js/main.7bbd92b4.chunk.js"
+  ]
+}

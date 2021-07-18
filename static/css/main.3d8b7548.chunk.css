@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}.columnContainer{display:grid;grid-template-columns:1fr 1fr 1fr;margin:24px auto;width:80%;grid-gap:8px;gap:8px}.itemLayout{background-color:#eee;border-radius:4;padding:4px 8px;transition:background-color .8s ease-out;margin-top:8}.columnStyle{padding:24px 0}.columnStyle,.rowStyle{display:flex;flex-direction:column;margin-top:8}.rowStyle{background-color:#ddd;border-radius:8;padding:16;flex-grow:1}
+/*# sourceMappingURL=main.3d8b7548.chunk.css.map */
